@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminefredj
-- 👀 I’m interested in hacking 
-- 🌱 I’m currently learning hacking 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with my email fredjamine32@gmail.com
 
